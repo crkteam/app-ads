@@ -20,3 +20,4 @@ xandr.com, 7353, RESELLER
 algorix.co, 54616, RESELLER
 telaria.com, rwd19-1686457, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1686457, RESELLER, 1a4e959a1b50034a
+facebook.com, 463609174521707, DIRECT, c3e20eee3f780d68
